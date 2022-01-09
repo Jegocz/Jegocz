@@ -10,7 +10,7 @@ My name is Kai Urban, I'm a web developer at valantic CEC Deutschland GmbH
 
 #### 👷 Check out what I'm currently working on
 
-- [football-betting/daily-winner](https://github.com/football-betting/daily-winner) -  (6 months ago)
+- [football-betting/daily-winner](https://github.com/football-betting/daily-winner) -  (7 months ago)
 - [football-betting/match-api](https://github.com/football-betting/match-api) -  (7 months ago)
 
 ---
