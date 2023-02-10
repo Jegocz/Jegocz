@@ -16,6 +16,6 @@ My name is Kai Urban, I'm a web developer at valantic CEC Deutschland GmbH
 
 #### 🔭 Latest releases I've contributed to
 
-- [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) ([1.0.7](https://github.com/nexusunited/spryker-kit-intellij-plugin/releases/tag/1.0.7), 3 months ago) - Supports the development of Spryker applications with Intellij Integration.
+- [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) ([1.0.7](https://github.com/nexusunited/spryker-kit-intellij-plugin/releases/tag/1.0.7), 4 months ago) - Supports the development of Spryker applications with Intellij Integration.
 
 ---
