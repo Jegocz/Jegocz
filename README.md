@@ -10,7 +10,7 @@ My name is Kai Urban, I'm a web developer at valantic CEC Deutschland GmbH
 
 #### 👷 Check out what I'm currently working on
 
-- [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) - Supports the development of Spryker applications with Intellij Integration. (7 months ago)
+- [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) - Supports the development of Spryker applications with Intellij Integration. (8 months ago)
 
 ---
 
